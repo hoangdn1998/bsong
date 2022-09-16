@@ -1,0 +1,5 @@
+git status: xem trạng thái
+git add . : add lên git (add all)
+git add filename : add lên git (add filename)
+git commit -m'': dùng để commit ( nội dung trong '')
+git push: đưa lên git
